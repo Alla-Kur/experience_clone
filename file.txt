@@ -1,1 +1,2 @@
 Contents of the text file 
+Change 1 - edit file.txt
